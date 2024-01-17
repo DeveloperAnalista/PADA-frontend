@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@emotion/react": "^11.11.3",
     "@emotion/styled": "^11.11.0",
     "@hookform/resolvers": "^3.3.4",
@@ -18,13 +19,20 @@
     "axios": "^1.6.5",
     "date-fns": "^3.2.0",
     "phosphor-react": "^1.4.1",
+=======
+    "axios": "^1.4.0",
+>>>>>>> 8a00cd84f6fc7520807ec1121dfe0b00aedcfc23
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hook-form": "^7.49.3",
     "react-router-dom": "^6.11.1",
+<<<<<<< HEAD
     "styled-components": "^5.3.11",
     "styled-icons": "^10.47.0",
     "zod": "^3.22.4"
+=======
+    "styled-components": "^6.0.0-rc.1"
+>>>>>>> 8a00cd84f6fc7520807ec1121dfe0b00aedcfc23
   },
   "devDependencies": {
     "@types/react": "^18.0.28",
